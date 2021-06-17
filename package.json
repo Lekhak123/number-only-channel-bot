@@ -1,0 +1,29 @@
+{
+  "name": "discord-stupid-bot",
+  "version": "1.0.0",
+  "description": "a discord bot that will only let you send numbers in a ascending order in a discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruriko123/discord-stupid-bot.git"
+  },
+  "keywords": [
+    "numbers",
+    "ascending",
+    "order",
+    "custom",
+    "game"
+  ],
+  "author": "ruriko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruriko123/discord-stupid-bot/issues"
+  },
+  "homepage": "https://github.com/ruriko123/discord-stupid-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
